@@ -1,0 +1,60 @@
+.bi{
+    font-size: 30px
+}
+#spn{
+    position: absolute;
+    top: 3%;
+    background-color: rgb(255, 68, 55);
+    padding: 0px 8px ;
+    border-radius: 1000px;
+    left: 5%;
+    color: white;
+    
+}
+#form{
+    position: relative;
+}
+#form a{
+    color: black !important;
+}
+.card img{
+    height: 200px;
+    object-fit: contain;
+}
+.empty{
+    margin-top: 15%;
+}
+.empty .fa-shopping-bag{
+    font-size: 50px;
+}
+#inc{
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: white;
+}
+#dcr{
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: white;
+}
+#spn{
+    border: 1px solid rgb(22, 20, 20);
+}
+#full{
+    margin-top: 10%;    
+}
+.img{
+    width: 60%;
+}
+#um{
+    position: absolute;
+    right: 16%;
+    font-size: 30px;
+ 
+}
+#first{
+    margin-top: 10%;
+}
+.all-products{
+    flex-wrap: wrap;
+}
